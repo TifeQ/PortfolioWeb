@@ -103,7 +103,7 @@ export default function Navigation() {
                 <span className="text-white font-display font-bold text-xl">D</span>
               </div>
               <span className="font-display font-semibold text-xl text-black hidden sm:block">
-                Data Analyst
+                Boluwatife Quadri
               </span>
             </a>
           </div>
